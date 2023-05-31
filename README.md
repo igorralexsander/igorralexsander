@@ -22,3 +22,5 @@ My favorite languages and tecnologies
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorralexsander&layout=compact)](https://github.com/igorralexsander?tab=repositories)
+
+[![thomasdacosta Status](https://github-readme-stats.vercel.app/api?username=igorralexsander&show_icons=true)](https://github.com/igorralexsander?tab=repositories)
