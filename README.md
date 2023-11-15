@@ -1,9 +1,8 @@
 # Hello, I'am Igor Alexsander 👻
-### Hi there 👋
 
 ### AWS Certifications
 
-<div style="float:left;text-alignment: center">
+<div id="certifications-container">
     <a href="https://www.credly.com/badges/724cf8ac-a6e6-439f-997d-05af1f647013/public_url" target="blank">
         <img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120" height= "120"/>
     </a>
@@ -19,7 +18,7 @@
 </div>
 
 
-My favorite languages and tecnologies
+### My current favorite stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -41,3 +40,11 @@ My favorite languages and tecnologies
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorralexsander&layout=compact)](https://github.com/igorralexsander?tab=repositories)
 
 [![igorralexsander Status](https://github-readme-stats.vercel.app/api?username=igorralexsander&show_icons=true)](https://github.com/igorralexsander?tab=repositories)
+
+<style>
+    #certifications-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+</style>
