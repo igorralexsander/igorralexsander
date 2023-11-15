@@ -4,10 +4,10 @@
 ### AWS Certifications
 
 <div style="float:left">
-    <img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120"/>
-    <img src="./imgs/aws-certified-developer-associate.png" alt="AWS Developer - Associate" width="120"/>
-    <img src="./imgs/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect - Associate" width="120"/>
-    <img src="./imgs/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner - Foundational" width="120"/>
+    <img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120" height= "120"/>
+    <img src="./imgs/aws-certified-developer-associate.png" alt="AWS Developer - Associate" width="120" height="120"/>
+    <img src="./imgs/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect - Associate" width="120" height="120"/>
+    <img src="./imgs/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner - Foundational" width="120" height="120"/>
 </div>
 
 
