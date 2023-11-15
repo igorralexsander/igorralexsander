@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 ### AWS Certifications
-![AWS SysOps Administrator](./imgs/aws-certified-sysops-administrator-associate.png)
 
+<img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="60"/>
 
 My favorite languages and tecnologies
 
