@@ -1,7 +1,6 @@
 # Hello, I'am Igor Alexsander 👻
 ### Hi there 👋
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="724cf8ac-a6e6-439f-997d-05af1f647013" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 My favorite languages and tecnologies
 
