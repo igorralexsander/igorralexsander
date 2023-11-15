@@ -4,11 +4,18 @@
 ### AWS Certifications
 
 <div style="float:left;text-alignment: center">
-    <a href="https://www.credly.com/badges/724cf8ac-a6e6-439f-997d-05af1f647013/public_url" target="_blank">
-    <img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120" height= "120"/></a>
-    <img src="./imgs/aws-certified-developer-associate.png" alt="AWS Developer - Associate" width="120" height="120"/>
-    <img src="./imgs/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect - Associate" width="120" height="120"/>
-    <img src="./imgs/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner - Foundational" width="120" height="120"/>
+    <a href="https://www.credly.com/badges/724cf8ac-a6e6-439f-997d-05af1f647013/public_url" target="blank">
+        <img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120" height= "120"/>
+    </a>
+    <a href="https://www.credly.com/badges/0a24348d-19c9-46a0-9b2a-078ac8fd22a2/public_url" target="blank">
+        <img src="./imgs/aws-certified-developer-associate.png" alt="AWS Developer - Associate" width="120" height="120"/>
+    </a>
+    <a href="https://www.credly.com/badges/f5c4bdba-1292-458b-8da8-47eb38e79803/public_url" target="blank">
+        <img src="./imgs/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect - Associate" width="120" height="120"/>
+    </a>
+    <a href="https://www.credly.com/badges/166554a7-abc9-444d-834c-aa08356e66ba/public_url" target="blank">
+        <img src="./imgs/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner - Foundational" width="120" height="120"/>
+    </a>
 </div>
 
 
