@@ -47,4 +47,8 @@
         align-items: center;
         justify-content: center;
     }
+
+    #certifications-container a {
+        text-decoreation: none;
+    }
 </style>
