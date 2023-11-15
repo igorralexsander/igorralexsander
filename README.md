@@ -1,6 +1,9 @@
 # Hello, I'am Igor Alexsander 👻
 ### Hi there 👋
 
+### AWS Certifications
+![AWS SysOps Administrator](./imgs/aws-certified-sysops-administrator-associate.png)
+
 
 My favorite languages and tecnologies
 
@@ -23,4 +26,4 @@ My favorite languages and tecnologies
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorralexsander&layout=compact)](https://github.com/igorralexsander?tab=repositories)
 
-[![thomasdacosta Status](https://github-readme-stats.vercel.app/api?username=igorralexsander&show_icons=true)](https://github.com/igorralexsander?tab=repositories)
+[![igorralexsander Status](https://github-readme-stats.vercel.app/api?username=igorralexsander&show_icons=true)](https://github.com/igorralexsander?tab=repositories)
