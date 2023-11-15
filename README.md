@@ -3,7 +3,7 @@
 
 ### AWS Certifications
 
-<img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="60"/>
+<img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120"/>
 
 My favorite languages and tecnologies
 
