@@ -48,7 +48,7 @@
         justify-content: center;
     }
 
-    #certifications-container a {
+    #certifications-container a:link {
         text-decoreation: none;
     }
 </style>
