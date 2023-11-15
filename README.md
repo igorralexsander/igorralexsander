@@ -2,7 +2,7 @@
 
 ### AWS Certifications
 
-<div style="display:flex;align-items:center;justify-content:center;">
+<div style="display:flex;align-items:center;justify-content:center">
     <a href="https://www.credly.com/badges/724cf8ac-a6e6-439f-997d-05af1f647013/public_url" target="blank">
         <img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120" height= "120"/>
     </a>
