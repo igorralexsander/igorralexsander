@@ -1,8 +1,20 @@
+<style>
+    .certifications-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .certifications-container a:link {
+        text-decoreation: none;
+    }
+</style>
+
 # Hello, I'am Igor Alexsander 👻
 
 ### AWS Certifications
 
-<div id="certifications-container">
+<div class="certifications-container">
     <a href="https://www.credly.com/badges/724cf8ac-a6e6-439f-997d-05af1f647013/public_url" target="blank">
         <img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120" height= "120"/>
     </a>
@@ -41,14 +53,3 @@
 
 [![igorralexsander Status](https://github-readme-stats.vercel.app/api?username=igorralexsander&show_icons=true)](https://github.com/igorralexsander?tab=repositories)
 
-<style>
-    #certifications-container{
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
-    #certifications-container a:link {
-        text-decoreation: none;
-    }
-</style>
