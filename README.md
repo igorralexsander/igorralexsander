@@ -1,6 +1,6 @@
-# Hello, I'am Igor Alexsander 👻
+# Hello, I'am Igor Alexsander
 
-### AWS Certifications
+### My Certifications
 
 <div style="display:flex;align-items:center;justify-content:center">
     <a href="https://www.credly.com/badges/724cf8ac-a6e6-439f-997d-05af1f647013/public_url" target="blank">
