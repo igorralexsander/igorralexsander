@@ -1,10 +1,11 @@
-<style>
+<styles>
     .certifications{
         display:flex;
         align-items:center;
         justify-content:center
     }
-</style>
+</styles>
+
 # Hello, I'am Igor Alexsander
 
 ### My Certifications
