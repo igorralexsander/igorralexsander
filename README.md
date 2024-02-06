@@ -1,16 +1,9 @@
-<styles>
-    .certifications {
-        display:flex;
-        align-items:center;
-        justify-content:center
-    }
-</styles>
 
 # Hello, I'am Igor Alexsander
 
 ### My Certifications
 
-<div class="certifications">
+<div style="certifications">
     <a href="https://www.credly.com/badges/724cf8ac-a6e6-439f-997d-05af1f647013/public_url" target="blank">
         <img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120" height= "120"/>
     </a>
