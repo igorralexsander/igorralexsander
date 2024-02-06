@@ -15,6 +15,9 @@
     <a href="https://www.credly.com/badges/166554a7-abc9-444d-834c-aa08356e66ba/public_url" target="blank">
         <img src="./imgs/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner - Foundational" width="120" height="120"/>
     </a>
+     <a href="https://www.credly.com/badges/9d861634-a8bf-46f4-b1d5-25fe27e29e49/public_url" target="blank">
+        <img src="./imgs/github-actions.png" alt="GitHub Actions - Certification" width="120" height="120"/>
+    </a>
 </div>
 
 
