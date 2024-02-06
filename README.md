@@ -3,7 +3,7 @@
 
 ### My Certifications
 
-<div style="certifications">
+<div style="text-align:center;">
     <a href="https://www.credly.com/badges/724cf8ac-a6e6-439f-997d-05af1f647013/public_url" target="blank">
         <img src="./imgs/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator - Associate" width="120" height= "120"/>
     </a>
@@ -17,7 +17,7 @@
         <img src="./imgs/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner - Foundational" width="120" height="120"/>
     </a>
      <a href="https://www.credly.com/badges/9d861634-a8bf-46f4-b1d5-25fe27e29e49/public_url" target="blank">
-        <img src="./imgs/github-actions.png" alt="GitHub Actions - Certification" width="125" height="125"/>
+        <img src="./imgs/github-actions.png" alt="GitHub Actions - Certification" width="120" height="120"/>
     </a>
 </div>
 
